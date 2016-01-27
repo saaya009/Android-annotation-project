@@ -6,5 +6,5 @@ Using web to build app for everyone,and unuse server,just apk or ipa,the other l
 If you have interest,please talk with me. I need friends and teachers.
 Thank you to see those.
    My facebook : Saaya Lin 
-   Chinese QQ : 605034646
+   Chinese QQ  : 605034646
    Email       : phone13625007626@gmail.com
