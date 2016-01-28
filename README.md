@@ -9,6 +9,6 @@ Thank you to see those.
    Chinese QQ  : 605034646
    Email       : phone13625007626@gmail.com
 # Android-annotation-project version 1
-In this demo,just tell you how to use the "@Lqmsp" annotation.Use obj not util,more easy to maintain.
+In this demo,just tell you how to use the "@Lqmsp" annotation.Use obj not Android sharedPreference moudle,more easy to maintain.
 # Android-annotation-project version 1
-这是一个简单的demo，示例中使用TestObj.class进行操作
+这是一个简单的demo，示例中使用TestObj.class进行sharedPreference操作,为了更方便维护sharedPreference对象的表和类型。
