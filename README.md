@@ -10,3 +10,5 @@ Thank you to see those.
    Email       : phone13625007626@gmail.com
 # Android-annotation-project version 1
 In this demo,just tell you how to use the "@Lqmsp" annotation.Use obj not util,more easy to maintain.
+# Android-annotation-project version 1
+这是一个简单的demo，示例中使用TestObj.class进行操作
