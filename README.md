@@ -8,3 +8,5 @@ Thank you to see those.
    My facebook : Saaya Lin 
    Chinese QQ  : 605034646
    Email       : phone13625007626@gmail.com
+# Android-annotation-project version 1
+In this demo,just tell you how to use the "@Lqmsp" annotation.Use obj not util,more easy to maintain.
