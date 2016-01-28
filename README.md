@@ -1,4 +1,4 @@
-# Android-sp-annotation
+# Android-annotation-project
 Use Java annotation to build SharedPreferences obj
 This is a part of open sourse project.
 I wanna to build a project which includes all of my 3 years Android‘s experience and codes.
